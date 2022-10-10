@@ -1,0 +1,3 @@
+re-format the files to have a main method in each program. I will run each file separately in the Shell. Resubmit.
+
+When you are doing the programs, homework, etc. Only use the techniques we have reviewed in class so far (apart from looking up a simple method from a class like Math)
